@@ -1,0 +1,136 @@
+.back {
+	background-image: url(images/лес.jpg);
+}
+
+.H\(800\) {
+    height: 800px;
+}
+
+.W\(1200\) {
+    width: 1200px;
+}
+
+.M\(3\) {
+	margin: 3px;
+}
+
+.Ta\(c\) {
+  text-align: center;
+}
+
+.D\(g\) {
+	display: grid;
+}
+
+.P\(a\) {
+	position: absolute;
+}
+
+.Ft\(23\) {
+	font-size: 23pt;
+}
+
+.Pt\(200\) {
+	padding-top: 200px;
+}
+
+.Back\(grey\) {
+	background-color: lightgrey;
+}
+
+.Br {
+	border: 1px solid black;
+}
+
+.Bdtw\(30\) {
+  border-top-width: 30px;
+}
+
+.Bds\(s\) {
+  border-style: solid;
+}
+
+.Bdc\(white\) {
+  border-color: white;
+}
+
+.grid_width {
+	width: 500px;
+}
+
+.C\(white\) {
+  color: white;
+}
+
+.Pos\(r\) {
+  position: relative;
+}
+
+.Pt\(200px\) {
+  padding-top: 200px;
+}
+
+.Pt\(80px\) {
+  padding-top: 80px;
+}
+
+.Td\(n\) {
+  text-decoration: none;
+}
+
+.Bc\(s\) {
+	border-collapse: separate;
+}
+
+.Bs\(30\) {
+	border-spacing: 30px;
+}
+
+.Bgr\(no\) {
+	background-repeat: no-repeat;
+}
+
+.Pdl\(200\) {
+	padding-left: 200px;
+}
+
+.D\(g\) {
+	display: grid;
+}
+
+.G\(10-10\) {
+	gap: 10px 10px;
+}
+
+.A {
+	grid-template-columns: 150px 150px 150px 150px 150px;
+	grid-template-rows: 400px 300px;
+}
+
+.A1 {
+	grid-column: 1 / span 3;
+}
+
+.A-width\(450\) {
+	width: 450px;
+}
+
+.A2 {
+	grid-column: 4 / span 2;
+}
+
+.A3 {
+	grid-column: 1 / span 2;
+}
+
+.A4 {
+	grid-column: 3 / span 3;
+}
+
+.Ml\(20\) {
+	margin-left: 20px;
+}
+
+.Mb\(20\) {
+	margin-bottom: 20px;
+}
